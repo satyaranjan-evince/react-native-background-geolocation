@@ -1,4 +1,10 @@
 ## Changelog
+### [0.7.0] - 2022-05-23
+- Android 12 PendingIntent crash fixes for targetSDK 12
+
+### [0.6.11] - 2022-05-18
+- Repo updated - https://www.npmjs.com/package/@hariks789/react-native-background-geolocation
+- Android activity exported fix
 
 ### [0.6.3] - 2019-09-16
 ### Fixed
